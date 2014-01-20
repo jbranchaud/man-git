@@ -10,3 +10,5 @@ a collection of git tips and tricks
 - [git-scm videos](http://git-scm.com/videos)
 - [Heroku Git Cheat Sheet](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf)
 - [Interactive Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
+- [Official git Wiki](https://git.wiki.kernel.org/index.php/Main_Page)
+- [Try Git interactive tutorial](http://try.github.io/)
