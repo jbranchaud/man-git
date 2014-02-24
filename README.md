@@ -18,6 +18,14 @@ a collection of git tips and tricks
 
 source: git man pages
 
+### `git checkout`
+
+#### Checkout specific file from another branch
+
+    git checkout <branch_name> -- <paths>
+
+[source](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
+
 ### `git push`
 
 #### Delete a remote branch
