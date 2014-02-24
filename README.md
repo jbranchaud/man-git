@@ -6,12 +6,17 @@ a collection of git tips and tricks
 
 ### `git branch`
 
-#### Delete a git branch locally and remotely
+#### Delete a local branch
 
-    # remove the local branch
-    git branch -d <local-branch-name>
-    # remove the branch remotely
-    git push origin :<remote-branch-name>
+    git branch -d <branch-name>
+
+[source](http://stackoverflow.com/a/10999165/535590)
+
+#### Delete an unmerged local branch
+
+    git branch -D <branch-name>
+
+source: git man pages
 
 ### `git push`
 
