@@ -4,6 +4,23 @@ a collection of git tips and tricks
 
 ## Tips and Tricks (by command)
 
+### `git branch`
+
+#### Delete a git branch locally and remotely
+
+    # remove the local branch
+    git branch -d <local-branch-name>
+    # remove the branch remotely
+    git push origin :<remote-branch-name>
+
+### `git push`
+
+#### Delete a remote branch
+
+    git push origin --delete <branch-name>
+
+[source](http://stackoverflow.com/a/2003515/535590)
+
 ### `git tag`
 
 #### Delete a remote git tag
