@@ -50,6 +50,11 @@ source: git man pages
 - [git reset demystified](http://scottchacon.com/2011/07/11/reset.html)
 - [git reset explained](http://blog.plover.com/prog/git-reset.html)
 
+## Workflows
+
+- [Git-Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+- [GitHub-Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
 ## Resources
 
 - [git source code on GitHub](https://github.com/git/git)
