@@ -34,6 +34,18 @@ source: git man pages
 
 [source](http://stackoverflow.com/a/2003515/535590)
 
+### `git reset`
+
+#### Squash some commits
+
+    # move the head back two commits as the contents of those
+    # two commits gets squashed onto the index
+    git reset --soft HEAD~2
+    # commit the now squashed changes
+    git commit
+
+[source](http://scottchacon.com/2011/07/11/reset.html)
+
 ### `git tag`
 
 #### Delete a remote git tag
