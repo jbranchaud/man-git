@@ -43,6 +43,12 @@ source: git man pages
 
 [source](http://nathanhoad.net/how-to-delete-a-remote-git-tag)
 
+## Links (by command)
+
+### `git reset`
+
+- [git reset explained](http://blog.plover.com/prog/git-reset.html)
+
 ## Resources
 
 - [git source code on GitHub](https://github.com/git/git)
