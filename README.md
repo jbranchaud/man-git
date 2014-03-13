@@ -47,6 +47,7 @@ source: git man pages
 
 ### `git reset`
 
+- [git reset demystified](http://scottchacon.com/2011/07/11/reset.html)
 - [git reset explained](http://blog.plover.com/prog/git-reset.html)
 
 ## Resources
