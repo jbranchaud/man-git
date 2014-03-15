@@ -77,3 +77,4 @@ source: git man pages
 - [Interactive Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
 - [Official git Wiki](https://git.wiki.kernel.org/index.php/Main_Page)
 - [Try Git interactive tutorial](http://try.github.io/)
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn//gitmagic/)
