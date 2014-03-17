@@ -78,3 +78,4 @@ source: git man pages
 - [Official git Wiki](https://git.wiki.kernel.org/index.php/Main_Page)
 - [Try Git interactive tutorial](http://try.github.io/)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn//gitmagic/)
+- [Self-hosted Git Server](https://www.petekeen.net/self-hosted-git-server)
