@@ -57,6 +57,10 @@ source: git man pages
 
 ## Links (by command)
 
+### `git pull`
+
+- [In what cases could `git pull` be harmful?](http://stackoverflow.com/questions/15316601/in-what-cases-could-git-pull-be-harmful)
+
 ### `git reset`
 
 - [git reset demystified](http://scottchacon.com/2011/07/11/reset.html)
