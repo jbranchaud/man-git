@@ -57,8 +57,13 @@ source: git man pages
 
 ## Links (by command)
 
+### `git fetch`
+
+- [What's the difference between `git pull` and `git fetch`?](http://stackoverflow.com/questions/292357/whats-the-difference-between-git-pull-and-git-fetch?rq=1)
+
 ### `git pull`
 
+- [What's the difference between `git pull` and `git fetch`?](http://stackoverflow.com/questions/292357/whats-the-difference-between-git-pull-and-git-fetch?rq=1)
 - [In what cases could `git pull` be harmful?](http://stackoverflow.com/questions/15316601/in-what-cases-could-git-pull-be-harmful)
 
 ### `git reset`
