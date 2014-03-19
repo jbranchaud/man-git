@@ -88,3 +88,4 @@ source: git man pages
 - [Try Git interactive tutorial](http://try.github.io/)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn//gitmagic/)
 - [Self-hosted Git Server](https://www.petekeen.net/self-hosted-git-server)
+- [Linus Torvalds on git: Google Tech Talk](https://www.youtube.com/watch?v=4XpnKHJAok8)
