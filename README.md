@@ -90,3 +90,8 @@ source: git man pages
 - [Self-hosted Git Server](https://www.petekeen.net/self-hosted-git-server)
 - [Linus Torvalds on git: Google Tech Talk](https://www.youtube.com/watch?v=4XpnKHJAok8)
 - [r/git](http://www.reddit.com/r/git/)
+- [git ready](http://gitready.com/)
+- [git for computer scientists](http://eagain.net/articles/git-for-computer-scientists/)
+- [a git tutorial and primer](http://www.danielmiessler.com/study/git/)
+- [git immersion](http://gitimmersion.com/)
+- [think like a git](http://think-like-a-git.net/)
