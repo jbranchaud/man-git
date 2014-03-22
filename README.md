@@ -95,3 +95,4 @@ source: git man pages
 - [a git tutorial and primer](http://www.danielmiessler.com/study/git/)
 - [git immersion](http://gitimmersion.com/)
 - [think like a git](http://think-like-a-git.net/)
+- [Visualizing Git Concepts with D3](http://www.wei-wang.com/ExplainGitWithD3) ([GitHub repo](https://github.com/onlywei/explain-git-with-d3))
