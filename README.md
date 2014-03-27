@@ -98,3 +98,4 @@ source: git man pages
 - [Visualizing Git Concepts with D3](http://www.wei-wang.com/ExplainGitWithD3) ([GitHub repo](https://github.com/onlywei/explain-git-with-d3))
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [Changing history, or How to git pretty](http://justinhileman.info/article/changing-history/)
+- [git cheat sheet](http://cheat.errtheblog.com/s/git)
