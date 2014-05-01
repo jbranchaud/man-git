@@ -26,6 +26,14 @@ source: git man pages
 
 [source](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
 
+### `git diff`
+
+#### Show the files and changes that have been staged
+
+    git diff --cached
+
+[source](http://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged)
+
 ### `git push`
 
 #### Delete a remote branch
