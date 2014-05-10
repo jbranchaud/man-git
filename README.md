@@ -82,6 +82,8 @@ source: git man pages
     # perform a `git checkout --` on the files, unstaging them
     git ls-files --deleted -z | xargs -0 git checkout --
 
+[source](http://stackoverflow.com/questions/3169787/remove-all-deleted-files-from-changed-but-not-updated-in-git)
+
 ### `git pull`
 
 - [What's the difference between `git pull` and `git fetch`?](http://stackoverflow.com/questions/292357/whats-the-difference-between-git-pull-and-git-fetch?rq=1)
