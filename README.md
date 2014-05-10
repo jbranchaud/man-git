@@ -69,6 +69,13 @@ source: git man pages
 
 - [What's the difference between `git pull` and `git fetch`?](http://stackoverflow.com/questions/292357/whats-the-difference-between-git-pull-and-git-fetch?rq=1)
 
+### `git ls-files`
+
+#### List all files staged for deletion
+
+    # simply list the files staged for deletion
+    git ls-files --deleted -z
+
 ### `git pull`
 
 - [What's the difference between `git pull` and `git fetch`?](http://stackoverflow.com/questions/292357/whats-the-difference-between-git-pull-and-git-fetch?rq=1)
