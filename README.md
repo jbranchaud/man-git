@@ -71,10 +71,16 @@ source: git man pages
 
 ### `git ls-files`
 
-#### List all files staged for deletion
+#### List all files staged for deletion (and then do something with them)
 
     # simply list the files staged for deletion
     git ls-files --deleted -z
+
+    # perform a `git rm` on the files, putting them on the index
+    git ls-files --deleted -z | xargs -0 git rm
+
+    # perform a `git checkout --` on the files, unstaging them
+    git ls-files --deleted -z | xargs -0 git checkout --
 
 ### `git pull`
 
