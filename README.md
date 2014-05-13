@@ -42,6 +42,17 @@ source: git man pages
 
 [source](http://stackoverflow.com/a/2003515/535590)
 
+### `git remote`
+
+#### Change/Update the remote repository URL
+
+    git remote set-url <remote-name> <remote-url>
+
+    # for example, change origin url to github.com/user/repo-name
+    git remote set-url origin https://github.com/user/repo-name.git
+
+[source](http://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-git-repo)
+
 ### `git reset`
 
 #### Squash some commits
