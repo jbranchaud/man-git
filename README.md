@@ -133,3 +133,4 @@ source: git man pages
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [Changing history, or How to git pretty](http://justinhileman.info/article/changing-history/)
 - [git cheat sheet](http://cheat.errtheblog.com/s/git)
+- [How to handle big repositories with git](http://blogs.atlassian.com/2014/05/handle-big-repositories-git/)
