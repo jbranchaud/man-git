@@ -134,3 +134,7 @@ source: git man pages
 - [Changing history, or How to git pretty](http://justinhileman.info/article/changing-history/)
 - [git cheat sheet](http://cheat.errtheblog.com/s/git)
 - [How to handle big repositories with git](http://blogs.atlassian.com/2014/05/handle-big-repositories-git/)
+- [Ry's Git Tips and Tricks](http://rypress.com/tutorials/git/tips-and-tricks.html)
+- [25 Tips for Intermediate Git Users](http://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/)
+- [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
+- [Things you didn't know about Git](http://www.matheuslima.com/things-you-didnt-know-about-git/)
