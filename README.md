@@ -139,6 +139,7 @@ source: git man pages
 - [25 Tips for Intermediate Git Users](http://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/)
 - [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
 - [Things you didn't know about Git](http://www.matheuslima.com/things-you-didnt-know-about-git/)
+- [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 
 ## Commit Messages
 
