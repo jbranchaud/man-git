@@ -140,6 +140,7 @@ source: git man pages
 - [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
 - [Things you didn't know about Git](http://www.matheuslima.com/things-you-didnt-know-about-git/)
 - [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
+- [Git merge vs. rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)
 
 ## Commit Messages
 
