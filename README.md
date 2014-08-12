@@ -141,6 +141,7 @@ source: git man pages
 - [Things you didn't know about Git](http://www.matheuslima.com/things-you-didnt-know-about-git/)
 - [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 - [Git merge vs. rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)
+- [Git Fetch and Merge](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
 
 ## Commit Messages
 
