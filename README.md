@@ -142,6 +142,7 @@ source: git man pages
 - [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 - [Git merge vs. rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)
 - [Git Fetch and Merge](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
+- [Using topic branches and interactive rebasing effectively](https://blog.mozilla.org/webdev/2011/11/21/git-using-topic-branches-and-interactive-rebasing-effectively/)
 
 ## Commit Messages
 
