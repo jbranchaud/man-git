@@ -105,11 +105,6 @@ source: git man pages
 - [git reset demystified](http://scottchacon.com/2011/07/11/reset.html)
 - [git reset explained](http://blog.plover.com/prog/git-reset.html)
 
-## Workflows
-
-- [Git-Flow](http://nvie.com/posts/a-successful-git-branching-model/)
-- [GitHub-Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-
 ## Resources
 
 - [git source code on GitHub](https://github.com/git/git)
@@ -151,3 +146,8 @@ source: git man pages
 
 - [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [5 Useful Tips For A Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+
+### Workflows
+
+- [Git-Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+- [GitHub-Flow](http://scottchacon.com/2011/08/31/github-flow.html)
