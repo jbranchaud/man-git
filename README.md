@@ -47,6 +47,11 @@ source: git man pages
 
 [source](http://stackoverflow.com/a/9834872/535590)
 
+    # list only the names of the files
+    git diff branch-1..branch-2 --name-only
+
+[source](http://stackoverflow.com/a/13851260/535590)
+
 ### `git push`
 
 #### Delete a remote branch
