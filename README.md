@@ -52,6 +52,11 @@ source: git man pages
 
 [source](http://stackoverflow.com/a/13851260/535590)
 
+    # list the status and name of each file
+    git diff branch-1..branch-2 --name-status
+
+[source](http://stackoverflow.com/a/822859/535590)
+
 ### `git push`
 
 #### Delete a remote branch
