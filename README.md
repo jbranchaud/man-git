@@ -34,6 +34,19 @@ source: git man pages
 
 [source](http://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged)
 
+#### Show the difference between two (local) branches
+
+    # diff to show what is in branch-2 that is not in branch-1 (..)
+    git diff branch-1..branch-2
+
+    # diff to show what is in branch-1 that is not in branch-2 (..)
+    git diff branch-2..branch-1
+
+    # diff based on the common ancestor of branch-1 and branch-2 (...)
+    git diff branch-1...branch-2
+
+[source](http://stackoverflow.com/a/9834872/535590)
+
 ### `git push`
 
 #### Delete a remote branch
