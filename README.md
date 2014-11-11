@@ -130,6 +130,7 @@ source: git man pages
 
 ## Resources
 
+- [A Practical Git Introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
 - [git source code on GitHub](https://github.com/git/git)
 - [Pro Git book](http://git-scm.com/book)
 - [git-scm reference](http://git-scm.com/docs)
