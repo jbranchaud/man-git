@@ -175,6 +175,7 @@ source: git man pages
 ### Tools
 
 - [hub](https://github.com/github/hub) - hub helps you win at git
+- [git-extras](https://github.com/tj/git-extras) - little git extras
 
 ### Workflows
 
