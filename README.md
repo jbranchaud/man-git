@@ -183,3 +183,10 @@ source: git man pages
 
 - [Git-Flow](http://nvie.com/posts/a-successful-git-branching-model/)
 - [GitHub-Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+## License
+
+&copy; 2015 Josh Branchaud
+
+This repository is licensed under the MIT license (see `LICENSE` for
+details).
