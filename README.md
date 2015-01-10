@@ -177,6 +177,7 @@ source: git man pages
 - [hub](https://github.com/github/hub) - hub helps you win at git
 - [git-extras](https://github.com/tj/git-extras) - little git extras
 - [gitfs](https://github.com/PressLabs/gitfs) - version controlled file system
+- [elastic-git](https://github.com/universalcore/elastic-git) - Store data in git, find it in Elasticsearch
 
 ### Workflows
 
