@@ -163,9 +163,7 @@ source: git man pages
 - [Git merge vs. rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)
 - [Git Fetch and Merge](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
 - [Using topic branches and interactive rebasing effectively](https://blog.mozilla.org/webdev/2011/11/21/git-using-topic-branches-and-interactive-rebasing-effectively/)
-- [Move a subdirectory from one git repository to a subdirectory of another,
-  without losing commit
-  history](https://gist.github.com/smashwilson/015e6a3abfbf7af73d31)
+- [Move a subdirectory from one git repository to a subdirectory of another, without losing commit history](https://gist.github.com/smashwilson/015e6a3abfbf7af73d31)
 
 ### Commit Messages
 
