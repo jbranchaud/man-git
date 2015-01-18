@@ -165,6 +165,7 @@ source: git man pages
 - [Using topic branches and interactive rebasing effectively](https://blog.mozilla.org/webdev/2011/11/21/git-using-topic-branches-and-interactive-rebasing-effectively/)
 - [Move a subdirectory from one git repository to a subdirectory of another, without losing commit history](https://gist.github.com/smashwilson/015e6a3abfbf7af73d31)
 - [25 Tips for Intermediate Git Users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/)
+- [Git and GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 ### Commit Messages
 
