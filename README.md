@@ -166,6 +166,7 @@ source: git man pages
 - [Move a subdirectory from one git repository to a subdirectory of another, without losing commit history](https://gist.github.com/smashwilson/015e6a3abfbf7af73d31)
 - [25 Tips for Intermediate Git Users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/)
 - [Git and GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [How to Write a New Git Protocol](https://rovaughn.github.io/2015-2-9.html)
 
 ### Commit Messages
 
